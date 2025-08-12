@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: geog215
+
+website:
+  title: "GEOG 215: Introduction to Spatial Data Science"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  search: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
