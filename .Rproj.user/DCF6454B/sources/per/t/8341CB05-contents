@@ -4,6 +4,7 @@ project:
 
 website:
   title: "GEOG 215: Introduction to Spatial Data Science"
+  google-analytics: "G-RY9BS9PN31"
   navbar:
     background: primary
     left:
